@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "It is a project of running javascript files in nodejs",
   "main": "index.js",
+  "script":{
+    "test": "echo \"hello\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codechamp2006/Javascript-node-1.git"
